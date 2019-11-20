@@ -1,0 +1,26 @@
+{
+    "name": "gaxios-issue-120",
+    "version": "1.0.0",
+    "description": "Demonstration of gaxios issue #120",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/acchou/gaxios-issue-120.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/acchou/gaxios-issue-120/issues"
+    },
+    "homepage": "https://github.com/acchou/gaxios-issue-120#readme",
+    "dependencies": {
+        "googleapis": "^45.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^12.12.11",
+        "typescript": "^3.7.2"
+    }
+}
